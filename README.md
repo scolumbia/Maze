@@ -76,7 +76,7 @@ Contributions are welcomed! If you would like to contribute, please create a pul
 1. Creating a new branch, e.g. `git checkout branchname`
 2. Committing changes from branch, e.g. `git commit -m "Message."`
 3. Pushing branch to repository, e.g. `git push origin branchname` 
-4. Open a pull request on Github
+4. Opening a pull request on Github
 
 ## Licensing
 All contents of this documentation belong to the author. Though the game code was written by the author, due credit is given to Appalachian State's Department of Computer Science for the creation of the lab that described the successful creation of a maze game. Unauthorized viewing of game code is stictly prohibited due to academic integrity policies.
