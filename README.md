@@ -4,7 +4,7 @@ Maze Game is a simple and interactive game that allows players to navigate throu
 
 ![Maze Game using given template](MazeExample.png)
 
-## Description of Equipment & List of Materials (with illustrations)
+## Description of Equipment & List of Materials
 To play Maze Game, you must have a computer with an environment that compiles and runs Java code. You can either use your preferred IDE or a terminal (described below).
 
 For Mac users: use Terminal (pre-installed on all Macs)
@@ -43,7 +43,7 @@ To download Java, [go here for more information](https://java.com/en/download/he
 
 
 
-## Example(s) of your code (if applicable)
+## Examples of the Maze code
 <img width="543" alt="Screen Shot 2021-10-17 at 12 15 14 AM" src="https://user-images.githubusercontent.com/49316183/137611034-908ae18c-1ee9-4e9f-a8d5-c2031051b61e.png">
 
 <img width="426" alt="Screen Shot 2021-10-17 at 12 14 56 AM" src="https://user-images.githubusercontent.com/49316183/137611038-05fe58e4-5c34-4c8f-b4ef-d311d801654e.png">
@@ -66,7 +66,7 @@ To download Java, [go here for more information](https://java.com/en/download/he
 - Q: How do I create a new maze layout?
   - A: To customize your own maze, simply edit the file "hard.txt." Keep the height and width the same. Openings are represented by 0's, and blocked squares are represented by 1's.
 
-## Troubleshooting/Where to Get Support
+## Troubleshooting/ and Where to Get Support
 If you find errors or encounter issues of any kind, email me at columbiase@appstate.edu.
 
 ## How to Contribute
