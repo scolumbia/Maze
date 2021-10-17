@@ -11,20 +11,50 @@ For Mac users: use Terminal (pre-installed on all Macs)
 
 Windows users: [install PuTTY](https://www.putty.org/).
 
+To download Java, [go here for more information](https://java.com/en/download/help/download_options.html).
+
 ## Code example
+<img width="298" alt="Screen Shot 2021-10-17 at 12 17 45 AM" src="https://user-images.githubusercontent.com/49316183/137611089-618284ff-dcaf-48ee-96a5-bbc6e56e0a09.png">
+<img width="300" alt="Screen Shot 2021-10-17 at 12 17 57 AM" src="https://user-images.githubusercontent.com/49316183/137611092-cd0744e4-198e-4944-ba63-31d03fc3c470.png">
+<img width="293" alt="Screen Shot 2021-10-17 at 12 18 12 AM" src="https://user-images.githubusercontent.com/49316183/137611095-7d03b13c-6f14-49a7-a940-2d465d5dfe13.png">
+<img width="293" alt="Screen Shot 2021-10-17 at 12 18 44 AM" src="https://user-images.githubusercontent.com/49316183/137611097-9cfde81a-6749-4046-a9e7-ae4bc26ccb88.png">
 
 
 ## Installation instructions
+1. Go to the [project's Github page](https://github.com/scolumbia/Maze).
+2. Click the drop-down "Code" button and press "Download Zip."
+
+<img width="413" alt="Screen Shot 2021-10-16 at 11 50 02 PM" src="https://user-images.githubusercontent.com/49316183/137610534-63e81d5a-6da8-40e0-ad2b-aafa88a1f860.png">
+
+3. Unzip the folder and place its contents in your working directory.
+4. If you're using an IDE, follow its process for running code. Otherwise, continue with these instructions.
+5. Pull up your terminal.
+6. Navigate to your current working directory.
+7. At the Bash prompt, type `ls` to see directory contents.
+<img width="401" alt="Screen Shot 2021-10-17 at 12 09 35 AM" src="https://user-images.githubusercontent.com/49316183/137610926-adefa20c-abf4-4010-a528-100de2471316.png">
+
+ If you do not see the expected files, revisit steps 1-3.
+ 
+8. At the Bash prompt, type `javac MazeGame.java` to compile the code.
+<img width="520" alt="Screen Shot 2021-10-17 at 12 09 42 AM" src="https://user-images.githubusercontent.com/49316183/137610929-a07267c3-a57d-4b37-97e8-d300b57ad55b.png">
+
+9. At the Bash prompt, type `java MazeGame` to run the code.
+<img width="475" alt="Screen Shot 2021-10-17 at 12 10 00 AM" src="https://user-images.githubusercontent.com/49316183/137610919-5eadd215-df57-4e70-a280-38d986a53f4f.png">
+
 
 
 ## Example(s) of your code (if applicable)
+<img width="543" alt="Screen Shot 2021-10-17 at 12 15 14 AM" src="https://user-images.githubusercontent.com/49316183/137611034-908ae18c-1ee9-4e9f-a8d5-c2031051b61e.png">
 
+<img width="426" alt="Screen Shot 2021-10-17 at 12 14 56 AM" src="https://user-images.githubusercontent.com/49316183/137611038-05fe58e4-5c34-4c8f-b4ef-d311d801654e.png">
 
 ## FAQs
 - Q: What is my current position represented by?
   - A: The player's current position is represented by an @ symbol.
 - Q: Where is the goal?
   - A: The "G" represents the goal.
+- Q: How do I stop playing in the middle of a game?
+  - A: Type "quit" at the enter direction prompt.
 - Q: What are the dots on my screen?
   - A: When your sprite moves, they leave breadcrumbs in the spaces they've already visited. This prevents players from accidentally backtracking.
 - Q: How do I move my sprite?
