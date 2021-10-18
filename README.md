@@ -82,4 +82,6 @@ Contributions are welcomed! If you would like to contribute, please create a pul
 4. Opening a pull request on Github
 
 ## Licensing
+Copyright 2021 Sophie Columbia under an MIT license. Distribution of the project is restricted.
+
 All contents of this documentation belong to the author. Though the game code was written by the author, due credit is given to Appalachian State's Department of Computer Science for the creation of the lab that described the successful creation of a maze game. Unauthorized viewing of game code is stictly prohibited due to academic integrity policies.
