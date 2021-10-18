@@ -44,7 +44,10 @@ To download Java, [go here for more information](https://java.com/en/download/he
 
 
 ## Examples of the Maze code
+Here is the main method of MazeGame.java. The main method reads in the maze from a file named "hard.txt" and creates an instance of a game object. It then reads the input file and fills a 2D array with a maze representation. Finally, it calls the playGame method.
 <img width="543" alt="Screen Shot 2021-10-17 at 12 15 14 AM" src="https://user-images.githubusercontent.com/49316183/137611034-908ae18c-1ee9-4e9f-a8d5-c2031051b61e.png">
+
+The playGame method reads in the user's desired direction from the keyboard. It maintains a count of how many moves the player has made. So long as the player doesn't enter "quit," the method prints the maze to the console and calls helper methods to make the move.
 
 <img width="426" alt="Screen Shot 2021-10-17 at 12 14 56 AM" src="https://user-images.githubusercontent.com/49316183/137611038-05fe58e4-5c34-4c8f-b4ef-d311d801654e.png">
 
