@@ -27,11 +27,12 @@ Here is an example of the code's sequential output when playing MazeGame. Three 
 
 <img width="413" alt="Screen Shot 2021-10-16 at 11 50 02 PM" src="https://user-images.githubusercontent.com/49316183/137610534-63e81d5a-6da8-40e0-ad2b-aafa88a1f860.png">
 
-3. Unzip the folder and place its contents in your working directory.
-4. If you're using an IDE, follow its process for running code. Otherwise, continue with these instructions.
-5. Pull up your terminal.
-6. Navigate to your current working directory.
-7. At the Bash prompt, type `ls` to see directory contents.
+3. Unzip the folder.
+4. Place the folder's contents in your working directory.
+5. If you're using an IDE, follow its process for running code. Otherwise, continue with these instructions.
+6. Pull up your terminal.
+7. Navigate to your current working directory.
+8. At the Bash prompt, type `ls` to see directory contents.
 <img width="401" alt="Screen Shot 2021-10-17 at 12 09 35 AM" src="https://user-images.githubusercontent.com/49316183/137610926-adefa20c-abf4-4010-a528-100de2471316.png">
 
  If you do not see the expected files, revisit steps 1-3.
