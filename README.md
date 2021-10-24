@@ -23,7 +23,7 @@ Here is an example of the code's sequential output when playing MazeGame. Three 
 
 ## Installation instructions
 1. Go to the [project's Github page](https://github.com/scolumbia/Maze).
-2. Click the drop-down "Code" button and press "Download Zip."
+2. Click the drop-down **Code** button and press **Download Zip**.
 
 <img width="413" alt="Screen Shot 2021-10-16 at 11 50 02 PM" src="https://user-images.githubusercontent.com/49316183/137610534-63e81d5a-6da8-40e0-ad2b-aafa88a1f860.png">
 
@@ -68,7 +68,7 @@ The playGame method reads in the user's desired direction from the keyboard. It 
 - Q: Why does the maze reprint whenever I'm prompted to make a move?
   - A: This is a simple game implementation. Each time the maze is updated, the new state is printed to the console.
 - Q: How do I create a new maze layout?
-  - A: To customize your own maze, simply edit the file "hard.txt." Keep the height and width the same. Openings are represented by 0's, and blocked squares are represented by 1's.
+  - A: To customize your own maze, simply edit the file "hard.txt". Keep the height and width the same. Openings are represented by 0's, and blocked squares are represented by 1's.
 
 ## Troubleshooting and Where to Get Support
 If you find errors or encounter issues of any kind, email me at columbiase@appstate.edu.
