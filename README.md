@@ -14,6 +14,7 @@ Windows users: [install PuTTY](https://www.putty.org/).
 To download Java, [go here for more information](https://java.com/en/download/help/download_options.html).
 
 ## Code example
+Here is an example of the code's sequential output when playing MazeGame. Three moves are made until the player quits playing.
 <img width="298" alt="Screen Shot 2021-10-17 at 12 17 45 AM" src="https://user-images.githubusercontent.com/49316183/137611089-618284ff-dcaf-48ee-96a5-bbc6e56e0a09.png">
 <img width="300" alt="Screen Shot 2021-10-17 at 12 17 57 AM" src="https://user-images.githubusercontent.com/49316183/137611092-cd0744e4-198e-4944-ba63-31d03fc3c470.png">
 <img width="293" alt="Screen Shot 2021-10-17 at 12 18 12 AM" src="https://user-images.githubusercontent.com/49316183/137611095-7d03b13c-6f14-49a7-a940-2d465d5dfe13.png">
@@ -69,7 +70,7 @@ The playGame method reads in the user's desired direction from the keyboard. It 
 - Q: How do I create a new maze layout?
   - A: To customize your own maze, simply edit the file "hard.txt." Keep the height and width the same. Openings are represented by 0's, and blocked squares are represented by 1's.
 
-## Troubleshooting/ and Where to Get Support
+## Troubleshooting and Where to Get Support
 If you find errors or encounter issues of any kind, email me at columbiase@appstate.edu.
 
 ## How to Contribute
