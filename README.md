@@ -62,7 +62,7 @@ The playGame method reads in the user's desired direction from the keyboard. It 
 - Q: What are the dots on my screen?
   - A: When your sprite moves, they leave breadcrumbs in the spaces they've already visited. This prevents players from accidentally backtracking.
 - Q: How do I move my sprite?
-  - A: Type either "down", "up", "right", or "left."
+  - A: Type either "down", "up", "right", or "left".
 - Q: What is the user interface?
   - A: For efficiency and ease of implementation, all game interaction is done via the console.
 - Q: Why does the maze reprint whenever I'm prompted to make a move?
